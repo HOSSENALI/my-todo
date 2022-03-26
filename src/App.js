@@ -7,6 +7,7 @@ const App = () => {
   
   return (
     <div className="app">
+      <h1>this is text</h1>
       <TodoList />
     </div>
   )
